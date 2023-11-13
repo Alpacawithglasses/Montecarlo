@@ -1,6 +1,6 @@
 El programam para operar require:
 ingresar la cantidad de repeticiones
-El numero total de sales. Si vas a trabajar con 4 sales el total debe ser 3+4, o sea 7 (Esto debido a que las 3 primeras estan asignadas a las clnstantes de GAB)
+El numero total de sales. Si vas a trabajar con 4 sales el total debe ser 3+4, o sea 7 (Esto debido a que las 3 primeras estan asignadas a las constantes de GAB)
 ingresar el nombre de las variables. Estos deben ser agregados de la siguiente forma, primero Mo, Co, K y las sales (se sugiere que las sales vayan agregadas de menor a mayor segun su Aw)
 Posteriormente el programa ira pidiendo más parametros.
 
